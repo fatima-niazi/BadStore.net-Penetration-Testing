@@ -1,7 +1,7 @@
 # 🔐 BadStore.net Penetration Testing Report
 
 ## 📌 Overview
-This repository contains a full **Web Application Penetration Test Report** conducted on the **BadStore.net** application as part of the **CSEC2003 — Web Application Security Assessment**.
+This repository contains a full **Web Application Penetration Test Report** conducted in a simulated e-commerce environment as part of the **Web Application Security Assessment**.
 
 The assessment simulates a real-world attack scenario, identifying vulnerabilities and demonstrating how they can be exploited to compromise sensitive data and systems.
 
